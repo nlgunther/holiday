@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+holidayvenv
+oldholidaycards/
+db.sqlite3
+/static
+.DS_Store
+
