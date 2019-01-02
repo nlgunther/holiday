@@ -1,0 +1,19 @@
+#htext {color: red; text-align: center; font-size: 10em}
+
+#holidaytext {
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: green;
+    font-size: 2.5em;
+}
+
+#captiontext {
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    font-style: italic;
+    width: 100%;
+    color: blue;
+    font-size: 2em;
+}
+
